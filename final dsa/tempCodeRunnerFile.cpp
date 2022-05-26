@@ -1,0 +1,1 @@
+cout<<"hashtable created succesfully\n";
